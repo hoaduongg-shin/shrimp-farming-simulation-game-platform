@@ -346,3 +346,56 @@ Analysis     Reporting      Future Models
 Insights    Visualization   Predictive Applications
 ```
 
+## 8. Data Moat Strategy
+
+The Data Moat was proposed as a long-term strategic component of the ShrimpSim project.
+
+The core idea was that ShrimpSim would not only provide a simulation-based learning environment but would also continuously generate and accumulate proprietary data through user interactions and simulation activities.
+
+The project focused on collecting and accumulating data related to:
+
+- User behavior and learning activities.
+- Technical variables within shrimp farming scenarios.
+- Decisions made by users during the simulation.
+- Simulation outcomes and environmental responses.
+
+As the number of users and simulation sessions increases, the amount of accumulated data can also grow over time.
+
+### Data Moat Development Logic
+
+```text
+More Users
+      ↓
+More Simulation Activities
+      ↓
+More User Decisions and Interactions
+      ↓
+More Data Generated
+      ↓
+Continuous Data Accumulation
+      ↓
+Data Analysis and Knowledge Development
+      ↓
+Long-term Data Asset
+      ↓
+Data Moat
+```
+
+The accumulated data was expected to gradually form a valuable data foundation for VNUA.
+
+This data foundation could support the analysis of user behavior, simulation outcomes, learning activities, and other research or data-driven applications identified in the project.
+
+## Strategic Value
+
+The strategic value of the Data Moat lies in the continuous accumulation of data over time.
+
+Unlike a static dataset collected for a single research purpose, the proposed ShrimpSim platform could continuously generate new data as users interact with the simulation.
+
+Therefore, the value of the data ecosystem could increase alongside the growth of the platform and its user base.
+
+In the long term, the Data Moat was expected to become one of the project's key assets by supporting:
+
+Data analysis and research.
+Evaluation of user behavior and simulation outcomes.
+Future data-driven applications.
+The development of a long-term proprietary data resource for VNUA.
