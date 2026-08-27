@@ -139,28 +139,26 @@ The detailed calculations are available in the project's financial model:
 
 ## 5. Investment Evaluation
 
-The financial feasibility of the proposed ShrimpSim project was evaluated using four key investment indicators: Return on Investment (ROI), Net Present Value (NPV), Internal Rate of Return (IRR), and Payback Period.
+The financial feasibility of the proposed ShrimpSim project was evaluated based on the assumptions and projections developed by the project team.
 
-### 5.1 Financial Performance Indicators
+The evaluation used projected cash flows to estimate four key investment indicators.
 
-| Indicator | Result |
+### 5.1 Projected Financial Indicators
+
+| Indicator | Projected Result |
 |---|---:|
 | **Return on Investment (ROI)** | **114%** |
 | **Net Present Value (NPV)** | **686 million VND** |
 | **Internal Rate of Return (IRR)** | **16.9%** |
 | **Payback Period** | **5.1 years** |
 
-### 5.2 Interpretation of Results
+### 5.2 Interpretation
 
-The financial model produced a positive NPV of **686 million VND**, indicating that the projected financial benefits exceeded the estimated investment and operating costs under the assumptions used in the analysis.
+Based on the financial assumptions and projected cash flows developed for the project, the proposed ShrimpSim solution was estimated to generate a positive financial return over the seven-year evaluation period.
 
-The project achieved an estimated ROI of **114%**, while the IRR was calculated at **16.9%**.
+The projected results indicate an ROI of 114%, an NPV of 686 million VND, an IRR of 16.9%, and an estimated payback period of approximately 5.1 years.
 
-The estimated payback period was approximately **5.1 years**, meaning that the project was projected to recover its initial investment after slightly more than five years of operation.
-
-These results indicate that, based on the assumptions used in the financial model, ShrimpSim was considered financially feasible over the evaluation period.
-
-> **Note:** These indicators represent projected results from the academic project's financial model and should not be interpreted as actual financial performance.
+These results represent a financial feasibility assessment based on the assumptions used in the project's financial plan. They do not represent actual financial performance, actual revenue, or realized profit.
 
 ## 6. Financial Conclusion
 
